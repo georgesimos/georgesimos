@@ -1,10 +1,9 @@
-### Hi there 👋
-<!--
-**georgesimos/georgesimos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-- I’m currently working on [J.P. Morgan](https://www.jpmorgan.com/GR/en/about-us)
-- How to reach me: [@george-simos](https://www.linkedin.com/in/george-simos/) 
-- Check my [Curriculum Vitae](https://github.com/georgesimos/georgesimos/raw/main/GeorgeSimos.pdf)
+### George Simos
 
+Software engineer. I build finance applications at work, and apps for Greece in my own time.
 
+- **Euporia**: a personal-finance app made for Greece. Private beta.
+- **Cycladic Light**: apps for the Cyclades, starting with Koufonisia.
+- **[DiscoverKoufonisia](https://www.discoverkoufonisia.com)**: beaches, places to stay, taverns and shops on Koufonisia.
 
+[georgesimos.com](https://georgesimos.com) · [LinkedIn](https://www.linkedin.com/in/george-simos/)
